@@ -6,7 +6,7 @@
 #### Counter
 ![The San Juan Mountains are beautiful!](./Report/Counter.png)
 #### Counter-Reverse
-![The San Juan Mountains are beautiful!](./Report/Counter-reverse.png)
+![The San Juan Mountains are beautiful!](./Report/Counter-Reverse.png)
 
 
 ### 🌠 License  
