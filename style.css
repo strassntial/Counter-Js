@@ -1,0 +1,69 @@
+.container{
+    background-color: rgb(87, 223, 182);
+    height: 100vh;
+    text-align: center;
+}
+
+a{
+   text-decoration: none; 
+   color: black;
+}
+
+a:hover{
+    color: blueviolet;
+}
+.description{
+    margin-top: 80px;
+    font-weight: 900;
+    color: brown;
+}
+
+.description h1{
+    font-size: 30px;
+}
+
+.description p{
+    font-size: 20px;
+    
+}
+
+.flex{
+    display: flex;
+    column-gap: 20px;
+}
+
+.section{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    flex-direction: column;
+    width:700px;
+    height:200px;
+    gap:50px;
+    align-items: center;
+}
+
+.counter{
+    width: 150PX;
+    height: 80px;
+    border-radius: 80px;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.btn{
+    width: 150PX;
+    height: 80px;
+    border-radius: 80px;
+    background-color: blueviolet;
+    font-size: larger;
+    border: 5px solid wheat;
+    font-weight: 900;
+}
+
+.btn:hover{
+    color: wheat;
+}
+
